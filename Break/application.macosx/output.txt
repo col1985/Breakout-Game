@@ -1,0 +1,2 @@
+This is a TEST 
+To prove that i can write data to text file!!
